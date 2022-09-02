@@ -1,1 +1,1 @@
-sets the mode of file to 753
+set mode same as olleh
