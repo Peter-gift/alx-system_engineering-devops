@@ -1,1 +1,1 @@
-execution permission to the owner and other users
+gives other users all permission and the owner none
