@@ -1,1 +1,1 @@
-changes file owner
+changes ownership of file
