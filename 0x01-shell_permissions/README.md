@@ -1,1 +1,1 @@
-gives other users all permission and the owner none
+sets the mode of file to 753
