@@ -1,1 +1,1 @@
-execute and read permission for users
+execution permission to the owner and other users
