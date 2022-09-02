@@ -1,1 +1,1 @@
-changer the owner if user is guillaume
+changes hello to betty if owned by the user
